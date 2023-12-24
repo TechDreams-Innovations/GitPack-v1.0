@@ -8,6 +8,7 @@ A collection of GitHub tools to revolutionize the way you develop!
 
 - [`GitHub REST API`](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api?tool=javascript&apiVersion=2022-11-28)
 - [`child_process`](https://nodejs.org/api/child_process.html) module
+- `node-fetch` library (can be installed simply with `npm install node-fetch`)
 - `axios` library (can be installed simply with `npm install axios`)
 - A JavaScript compiler
 
