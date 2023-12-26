@@ -15,7 +15,7 @@ To report vulnerabilities, please email [CodeMaster7K@gmail.com](mailto:CodeMast
 
 ## Minor Issues
 
-If you find a minor issue in GitPack (that isn't a security threat, such as a bug fix), please [create an issue](https://github.com/TechDreams-Innovations/GitPack/issues).
+If you find a minor issue in GitPack (that isn't a security threat, such as a bug fix), please [create an issue](https://github.com/TechDreams-Innovations/GitPack/issues), and we will look into it.
 
 ## EOL Info
 
